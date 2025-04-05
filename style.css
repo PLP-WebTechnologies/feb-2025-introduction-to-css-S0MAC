@@ -1,0 +1,50 @@
+/* Element selector */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* ID selector */
+  #main-header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid #2c6bb2;
+  }
+  
+  /* Class selector */
+  .title {
+    font-size: 2.5rem;
+    margin: 0;
+  }
+  
+  .content {
+    padding: 30px;
+    margin: 20px;
+    background-color: white;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  /* Style an image */
+  .styled-image {
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #4a90e2;
+    border-radius: 10px;
+  }
+  
+  /* Footer with ID selector */
+  #footer-text {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
